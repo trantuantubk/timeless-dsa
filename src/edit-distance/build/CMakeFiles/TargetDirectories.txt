@@ -1,3 +1,0 @@
-/home/tutt/working/timeless-dsa/src/edit-distance/build/CMakeFiles/edit_cache.dir
-/home/tutt/working/timeless-dsa/src/edit-distance/build/CMakeFiles/rebuild_cache.dir
-/home/tutt/working/timeless-dsa/src/edit-distance/build/CMakeFiles/editDistance.dir
