@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/editDistance.dir/src/editDistance.cpp.o  -o editDistance 
