@@ -31,11 +31,14 @@ public:
 };
 
 int main(int argc, char** argv){
-    // TODO: add the feature of reading from command line
     // TODO: add test module
     // TODO: add trace-back
-    std::string str1("element");
-    std::string str2("evidence");
+    if(argc != 3){
+        std::cout << "Use: ./editDist string1 string2" << std::endl;
+        return 1;
+    }
+    std::string str1(argv[1]);
+    std::string str2(argv[2]);
     int editDistance = EditDistance::calculateLevenshteinDist(str1,str2);
     std::cout << "Edit distance = " << editDistance << std::endl; 
     return 0;
