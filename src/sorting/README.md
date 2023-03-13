@@ -12,8 +12,8 @@ Sorting is one of the most fundamental routines in Computer Science and Informat
 
 ### Quick Sort
 #### Quick Sort with right-most pivot
-
+TODO: add a descritption
 #### Quick Sort with 3-way partitioning
-
+TODO: add a description
 ### Merge Sort
-On March 11th, 2023, I reached a personal milestone on Leetcode by solving problem number 23, "Merge k-sorted Lists", marking my 100th consecutive day of completing daily challenges on this platform. I find the concept of merge sort and related algorithms fascinating, and I plan to devote more time to honing my skills in this area through further practice.
+On March 11th, 2023, I reached a personal milestone on Leetcode by solving problem number 23, "Merge k Sorted Lists", marking my 100th consecutive day of completing daily challenges on this platform. I find the concept of merge sort and related algorithms fascinating, and I plan to devote more time to honing my skills in this area through further practice.
